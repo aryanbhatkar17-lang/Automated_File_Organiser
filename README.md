@@ -3,13 +3,16 @@ The Automated File Organizer is a Python command-line utility designed to clean 
 ---
 
 ## 📂 Project Structure
-Automated_File_Organiser/
-'''
-│── src/
-│   ├── main.py         # Entry point script
-│   └── file_utils.py   # Contains file organisation logic
-│── README.md
-'''
+   ```
+   Automated_File_Organiser/
+   ├── src/
+   │   ├── main.py         # Entry point script
+   │   └── file_utils.py   # File organisation logic
+   ├── README.md
+   ├── LICENSE
+   └── .gitignore
+   ```
+
 ---
 
 ## ✨ Features
